@@ -1,0 +1,11 @@
+C:\Users\turbo\source\repos\FlowerBouquet\FlowerBouquet\bin\Debug\net8.0\FlowerBouquetLibrary.deps.json
+C:\Users\turbo\source\repos\FlowerBouquet\FlowerBouquet\bin\Debug\net8.0\FlowerBouquetLibrary.dll
+C:\Users\turbo\source\repos\FlowerBouquet\FlowerBouquet\bin\Debug\net8.0\FlowerBouquetLibrary.pdb
+C:\Users\turbo\source\repos\FlowerBouquet\FlowerBouquet\obj\Debug\net8.0\FlowerBouquetLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turbo\source\repos\FlowerBouquet\FlowerBouquet\obj\Debug\net8.0\FlowerBouquetLibrary.AssemblyInfoInputs.cache
+C:\Users\turbo\source\repos\FlowerBouquet\FlowerBouquet\obj\Debug\net8.0\FlowerBouquetLibrary.AssemblyInfo.cs
+C:\Users\turbo\source\repos\FlowerBouquet\FlowerBouquet\obj\Debug\net8.0\FlowerBouquetLibrary.csproj.CoreCompileInputs.cache
+C:\Users\turbo\source\repos\FlowerBouquet\FlowerBouquet\obj\Debug\net8.0\FlowerBouquetLibrary.dll
+C:\Users\turbo\source\repos\FlowerBouquet\FlowerBouquet\obj\Debug\net8.0\refint\FlowerBouquetLibrary.dll
+C:\Users\turbo\source\repos\FlowerBouquet\FlowerBouquet\obj\Debug\net8.0\FlowerBouquetLibrary.pdb
+C:\Users\turbo\source\repos\FlowerBouquet\FlowerBouquet\obj\Debug\net8.0\ref\FlowerBouquetLibrary.dll
