@@ -1,0 +1,11 @@
+C:\Users\turbo\source\repos\Singleton\Singleton\bin\Debug\net8.0\Singleton.deps.json
+C:\Users\turbo\source\repos\Singleton\Singleton\bin\Debug\net8.0\Singleton.dll
+C:\Users\turbo\source\repos\Singleton\Singleton\bin\Debug\net8.0\Singleton.pdb
+C:\Users\turbo\source\repos\Singleton\Singleton\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turbo\source\repos\Singleton\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\turbo\source\repos\Singleton\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+C:\Users\turbo\source\repos\Singleton\Singleton\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\turbo\source\repos\Singleton\Singleton\obj\Debug\net8.0\Singleton.dll
+C:\Users\turbo\source\repos\Singleton\Singleton\obj\Debug\net8.0\refint\Singleton.dll
+C:\Users\turbo\source\repos\Singleton\Singleton\obj\Debug\net8.0\Singleton.pdb
+C:\Users\turbo\source\repos\Singleton\Singleton\obj\Debug\net8.0\ref\Singleton.dll
